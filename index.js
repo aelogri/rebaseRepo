@@ -1,3 +1,3 @@
 function name(params) {
-console.log('second change');
+console.log('avant de tester le rebase entre octobre et master');
 }
