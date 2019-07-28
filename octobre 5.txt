@@ -1,3 +1,7 @@
 octobre 5
+<<<<<<< HEAD
 octobre 11
 o 12
+=======
+master 10
+>>>>>>> f8fec028f959fa6cc668f5a86564dbfc318fb68d

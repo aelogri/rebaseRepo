@@ -1,4 +1,8 @@
 ce fichier est didié à octobre
 changement fait par ghitaAb
 je vais tester le rebase
+<<<<<<< HEAD
 o 13
+=======
+master 9
+>>>>>>> f8fec028f959fa6cc668f5a86564dbfc318fb68d
